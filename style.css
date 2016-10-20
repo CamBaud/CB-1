@@ -14,12 +14,12 @@ float: left;
 }
 .droite{
 float: right; 
-font-family: "Avenir";
+font-family: "Muli", sans-serif;
 font-size: 14px;
 }
 .gauche{
 float:left;
-font-family: "Avenir";
+font-family: "Muli", sans-serif;
 font-size: 14px;
 }
 .bracelet{
@@ -28,7 +28,7 @@ float: right;
 #menu_horizontal{
 background-color: white;
 padding:28px;
-font-family: "Avenir";
+font-family: "Muli", sans-serif;
 }
 ul#menu_horizontal li { 
 display : inline;
@@ -52,7 +52,7 @@ font-size: 25px;
 background: #ffffff;
 padding: 10px 20px 10px 20px;
 text-decoration: none;
-font-family: "Avenir";
+font-family: "Muli", sans-serif;
 }
 .btn:hover {
 background: #ababab;
